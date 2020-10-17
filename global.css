@@ -6,13 +6,13 @@ Feel free to play with it!*/
     /* Can you fix the url to find the ttf font file? */
     /* The following line should be something like: */
     /* src: url('location/of/font.ttf'); */
-    src: url('');
+    src: url('../src/fonts/lockergnome.ttf');
 }
 
 * {
     font-family: 'lockergnome';
     background-color: beige;
-    font-size: 1.1em;
+    font-size: 2.1em;
 }
 
 body {
